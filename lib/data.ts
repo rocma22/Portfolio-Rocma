@@ -71,26 +71,27 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Resturant app with dashboard",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "A customer reservation system for streamlined bookings. It provides instant confirmation and waitlist management.",
+    tags: ["React", "vite", "node.js", "Express", "MongoDB"],
+    imageUrl: wordanalyticsImg,
+  },
+  {
+    title: "Landing pages",
+    description:
+      "I worked as a front-end developer on this startup project for 2 years. as a freelancer with clients form siveral projects.",
+    tags: ["React", "Html5", "CSS", "Tailwind", "JS"],
     imageUrl: corpcommentImg,
   },
   {
-    title: "rmtDev",
+    title: "School Management Web Application",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+      "A full-stack school management web app that simplifies managing students, teachers, and documents, with support for printing to streamline administrative tasks.",
+    tags: ["front-end", "back-end", "Realtime", "API"],
     imageUrl: rmtdevImg,
   },
-  {
-    title: "Word Analytics",
-    description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
-  },
+ 
 ] as const;
 
 export const skillsData = [
@@ -101,7 +102,7 @@ export const skillsData = [
   "React",
   "Next.js",
   "Node.js",
-  "Git",
+  "PHP",
   "Tailwind",
   "Prisma",
   "MongoDB",
@@ -109,7 +110,7 @@ export const skillsData = [
   "GraphQL",
   "MySql",
   "Express",
-  "PostgreSQL",
+  "Query",
   "Deploy",
   "Vite",
   "Framer Motion",
