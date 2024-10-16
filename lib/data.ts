@@ -71,24 +71,24 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Resturant app with dashboard",
+    title: "Restaurant Operations App",
     description:
       "A customer reservation system for streamlined bookings. It provides instant confirmation and waitlist management.",
-    tags: ["React", "vite", "node.js", "Express", "MongoDB"],
+    tags: ["React", "vite", "node.js", "Express", "MongoDB","Prisma","API"],
     imageUrl: wordanalyticsImg,
   },
   {
     title: "Landing pages",
     description:
       "I worked as a front-end developer on this startup project for 2 years. as a freelancer with clients form siveral projects.",
-    tags: ["React", "Html5", "CSS", "Tailwind", "JS"],
+    tags: ["React", "Html5", "CSS", "Tailwind", "JavaScript","AOS",],
     imageUrl: corpcommentImg,
   },
   {
     title: "School Management Web Application",
     description:
       "A full-stack school management web app that simplifies managing students, teachers, and documents, with support for printing to streamline administrative tasks.",
-    tags: ["front-end", "back-end", "Realtime", "API"],
+    tags: ["front-end", "back-end", "Realtime", "API","Deploy"],
     imageUrl: rmtdevImg,
   },
  
