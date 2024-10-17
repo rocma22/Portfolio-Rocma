@@ -1,17 +1,19 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
 
-.borderBlack
-{
-    @apply border-black/10 ;
-}
+    .borderBlack
+    {
+        @apply border-black/10 ;
+    }
 
-html
-{
-    --line-color:#e5e7eb;
-}
-html.dark
-{
-    --line-color:rgba(255, 255, 255, 0.2);
-}
+    html
+    {
+        --line-color:#e5e7eb;
+    }
+    html.dark
+    {
+        --line-color:rgba(255, 255, 255, 0.2);
+    }
+
+    
