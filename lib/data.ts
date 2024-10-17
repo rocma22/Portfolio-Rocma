@@ -73,7 +73,7 @@ export const projectsData = [
   {
     title: "Landing pages",
     description:
-      "I worked as a front-end developer on this startup project for 2 years. as a freelancer with clients form siveral projects.",
+      "I worked as a front-end developer on this startup project for 2 years, freelancing with clients from several other projects.",
     tags: ["React", "Html5", "CSS", "Tailwind", "JavaScript", "AOS",],
     imageUrl: corpcommentImg,
   },
