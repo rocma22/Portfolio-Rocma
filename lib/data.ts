@@ -106,5 +106,5 @@ export const skillsData = [
   "Query",
   "Deploy",
   "Vite",
-  "Framer Motion",
+  "Troubleshooting",
 ] as const;
