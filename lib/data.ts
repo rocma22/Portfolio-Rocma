@@ -95,6 +95,8 @@ export const skillsData = [
   "JavaScript",
   "SqlServer",
   "React",
+  "Next.js",
+  "TypeScript",
   "Node.js",
   "PHP",
   "Sql Server",
